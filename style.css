@@ -1,0 +1,71 @@
+html {
+    background: slategray;
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    color: slategray;
+    border-top: 10px solid slategray ;
+    padding: 40px;
+    background: snow;
+    border-top: 10px solid silver;
+    
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+p {
+    line-height: 1.4em;
+
+}
+.author {
+    color: palevioletred;
+}
+form {
+    background-color: pink;
+    border-width: 4px;
+    border-color: silver;
+    border-style: solid;
+    padding: 3px;
+}
+nav {
+    background-color: snow;
+    overflow: hidden;
+    border-style: solid;
+    border-color: slategray;
+    border-width: 4px;
+    text-align: left;
+    color: slategray;
+  
+}
+article{
+    border-bottom: 7px solid silver;
+
+}
+nav li {
+	display:inline;
+	text-align:center;
+	margin-right: auto;
+	margin-left:auto;
+	margin-top: auto;
+    margin-bottom: auto;
+}
+nav ul{
+    text-align: center;
+}
+nav a:hover{
+    color:#AC2456;
+    text-decoration: underline;
+    }
+
+img{
+    border-color: pink;
+    border-width: 5px;
+    border-style: solid;
+
+}
